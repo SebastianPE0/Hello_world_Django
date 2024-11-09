@@ -1,0 +1,66 @@
+# Archivos del sistema operativo
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual (Virtualenv, venv, etc.)
+venv/
+env/
+*.env
+
+# Archivos de bases de datos
+db.sqlite3
+*.sqlite3
+
+# Archivos de migraciones de Django
+*/migrations/*.py
+*/migrations/*.pyc
+*/migrations/*.pyo
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de Django (si no quieres que se suban)
+*.env
+*.ini
+*.json
+
+# Archivos de IDEs y editores de texto
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de compilación de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de la base de datos (por ejemplo, si usas PostgreSQL, MySQL, etc.)
+*.pgsql
+*.sql
+
+# Archivos de test (si tienes test o coverage)
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# Archivos de Django (si no deseas que se suban las configuraciones específicas)
+*.sqlite3
+staticfiles/
+media/
+
+# Archivos de configuraciones del servidor
+*.log
+
+# Archivos de seguridad (si utilizas claves o configuraciones locales)
+*.pem
+*.key
+*.crt
+*.pfx
