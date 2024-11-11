@@ -43,3 +43,12 @@ docker stop django_app
 ~~~
 docker rm django_app
 ~~~
+---
+---
+#Aditional Information
+   - Docker containers are stored in Docker Hub, if you want to enter you can do so at the following link
+[DokerHub - /sebatianperez02](https://hub.docker.com/?_gl=1*1fklqy0*_gcl_au*MTQxMTU2MzM4LjE3MzExMjY0Mjc.*_ga*NzMzMTc2MDUuMTcyMjMwODM5Mg..*_ga_XJWPQMJYHQ*MTczMTI5MTE1OC4xMC4xLjE3MzEyOTE0OTYuNDUuMC4w)
+   - An image of the execution is attached
+![image](https://github.com/user-attachments/assets/2a129a18-29d9-453e-84dc-967aef4d8b40)
+
+     
