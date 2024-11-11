@@ -46,6 +46,10 @@ docker rm django_app
 ---
 ---
 #Aditional Information
+   - Currently the repository uses the RailWay service to simulate a production environment. 
+      The link to verify the service is as follows
+  [Link of the page in RailWay service](https://helloworlddjango-production-4a32.up.railway.app/)   
+
    - Docker containers are stored in Docker Hub, if you want to enter you can do so at the following link
      
 [DokerHub - /sebatianperez02](https://hub.docker.com/?_gl=1*1fklqy0*_gcl_au*MTQxMTU2MzM4LjE3MzExMjY0Mjc.*_ga*NzMzMTc2MDUuMTcyMjMwODM5Mg..*_ga_XJWPQMJYHQ*MTczMTI5MTE1OC4xMC4xLjE3MzEyOTE0OTYuNDUuMC4w)
